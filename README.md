@@ -1,16 +1,18 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Yash Jain</h1>
+<h3 align="center">A self-taught programmer 😜</h3>
 
-<!--
-**yash0307jain/yash0307jain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-   🌱 I’m currently learning **Flutter**
 
-Here are some ideas to get you started:
+-   ⚡ Fun fact **I love to know about new gadgets and love to solve logical reasoning problems.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me:
+
+<a href="https://linkedin.com/in/yash0307jain" target="blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="yash0307jain" height="22" width="22" />
+</a>
+
+<br />
+
+<p>&nbsp;
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=yash0307jain&show_icons=true" alt="yash0307jain" />
+</p>
