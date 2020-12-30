@@ -14,7 +14,7 @@
 ### My stats:
 
 <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash0307jain&layout=compact&hide=css&langs_count=10" alt="yash0307jain" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash0307jain&layout=compact&hide=css,matlab&langs_count=10" alt="yash0307jain" />
 </p>
 
 <p>
