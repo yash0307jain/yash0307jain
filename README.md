@@ -15,6 +15,11 @@
 <br />
 <br /> 
 
+
+<p>
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash0307jain&layout=compact&hide=css&langs_count=10" alt="yash0307jain" />
+</p>
+
 <p>&nbsp;
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=yash0307jain&show_icons=true" alt="yash0307jain" />
 </p>
