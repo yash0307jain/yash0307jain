@@ -15,7 +15,7 @@
 ### Have a look to my Quora space:
 
 <a href="https://www.quora.com/q/algomart" target="blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/quora.svg" alt="yash0307jain" height="22" width="22" />
+    <img src="https://gist.github.com/wxmerkt/9509091" alt="yash0307jain" height="22" width="22" />
 </a>
 
 <br><br>
