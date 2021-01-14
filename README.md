@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Yash Jain</h1>
 <h3 align="center">A self-taught programmer 😜</h3>
 
+<p align="center">
 -   ⚡ Fun fact **I love to know about new gadgets and love to solve logical reasoning problems.**
+</p>
 
 ### Connect with me:
 
