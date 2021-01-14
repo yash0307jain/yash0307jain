@@ -23,6 +23,6 @@
 📈 My GitHub Stats
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=yash0307jain&show_icons=true" alt="yash0307jain" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash0307jain&layout=compact&hide=css,matlab&langs_count=10" alt="yash0307jain" />
+    <img alt="yash0307jain" height="130" src="https://github-readme-stats.vercel.app/api?username=yash0307jain&show_icons=true" />
+    <img alt="yash0307jain" height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash0307jain&layout=compact&hide=css,matlab&langs_count=10" />
 </p>
