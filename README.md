@@ -8,7 +8,7 @@
 ### Connect with me:
 
 <a href="https://linkedin.com/in/yash0307jain" target="blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="yash0307jain" height="22" width="22" />
+    <img align="left" alt="Yash's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
 ### Have a look to my Quora space:
