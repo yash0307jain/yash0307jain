@@ -3,6 +3,7 @@
 
 <p align="center">
 ⚡ Fun fact **I love to know about new gadgets and love to solve logical reasoning problems.**
+</p>
 
 ### Connect with me:
 
@@ -12,6 +13,7 @@
 
 <br><br>
 
+<p align="center">
 📈 My GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash0307jain&layout=compact&hide=css,matlab&langs_count=10" alt="yash0307jain" />
