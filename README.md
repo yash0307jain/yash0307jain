@@ -1,7 +1,7 @@
 <h1>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Yash Jain</h1>
 <h3>A self-taught programmer 😜</h3>
 
-⚡ Fun fact **I love to know about new gadgets and love to solve logical reasoning problems.**
+⚡ Fun fact **I love to know about new gadgets <br>and love to solve logical reasoning problems.**
 
 <img align="right" alt="GIF" src="https://github.com/yash0307jain/yash0307jain/blob/main/code.gif" width="500" height="320" />
 
