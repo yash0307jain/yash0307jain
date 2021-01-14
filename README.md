@@ -13,9 +13,7 @@
 
 <br><br>
 
-<p align="center">
-    📈 My GitHub Stats
-</p>
+📈 My GitHub Stats
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash0307jain&layout=compact&hide=css,matlab&langs_count=10" alt="yash0307jain" />
