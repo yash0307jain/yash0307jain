@@ -11,6 +11,12 @@
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="yash0307jain" height="22" width="22" />
 </a>
 
+### Have a look to my Quora space:
+
+<a href="https://www.quora.com/q/algomart" target="blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/quora.svg" alt="yash0307jain" height="22" width="22" />
+</a>
+
 <br><br>
 
 📈 My GitHub Stats
