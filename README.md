@@ -2,8 +2,7 @@
 <h3 align="center">A self-taught programmer 😜</h3>
 
 <p align="center">
-   ⚡ Fun fact **I love to know about new gadgets and love to solve logical reasoning problems.**
-</p>
+⚡ Fun fact **I love to know about new gadgets and love to solve logical reasoning problems.**
 
 ### Connect with me:
 
@@ -13,14 +12,9 @@
 
 <br><br>
 
-<p align="center">
 📈 My GitHub Stats
-</p>
 
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash0307jain&layout=compact&hide=css,matlab&langs_count=10" alt="yash0307jain" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash0307jain&layout=compact&hide=css,matlab&langs_count=10" alt="yash0307jain" />
 
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=yash0307jain&show_icons=true" alt="yash0307jain" />
+<img src="https://github-readme-stats.vercel.app/api?username=yash0307jain&show_icons=true" alt="yash0307jain" />
 </p>
