@@ -7,9 +7,13 @@
 
 ------------
 
-<img align="right" alt="GIF" src="https://github.com/yash0307jain/yash0307jain/blob/main/code.gif" width="400" height="256" />
-
-### Connect with me:
+<table>
+  <tr>
+    <td align="center">
+      <img align="right" alt="GIF" src="https://github.com/yash0307jain/yash0307jain/blob/main/code.gif" width="400" height="256" />
+    </td>
+    <td align="center">
+      ### Connect with me:
 
 <a href="https://linkedin.com/in/yash0307jain" target="blank">
     <img alt="Yash's LinkedIN" height="22" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
@@ -20,6 +24,13 @@
 <a href="https://www.quora.com/q/algomart" target="blank">
     <img alt="Yash's Quora" height="22" width="22" src="https://gist.githubusercontent.com/wxmerkt/9509091/raw/eacd6c15da46a160cf24c7bf2970bb2082640da4/quora_icon.svg" />
 </a>
+    </td>
+  </tr>
+</table>
+
+
+
+
 
 <br><br><br><br>
 
