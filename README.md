@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yash Jain</h1>
 <h3 align="center">A self-taught programmer 😜</h3>
 
--   🌱 I’m currently learning **Flutter**
-
 -   ⚡ Fun fact **I love to know about new gadgets and love to solve logical reasoning problems.**
 
 ### Connect with me:
