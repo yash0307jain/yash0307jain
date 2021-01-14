@@ -2,6 +2,7 @@
 
 <img align="right" alt="GIF" src="https://github.com/yash0307jain/yash0307jain/blob/main/code.gif" width="400" height="256" />
 
+<p width="400">
 <h3>A self-taught programmer 😜</h3>
 
 ⚡ Fun fact **I love to know about new gadgets and love to solve logical reasoning problems.**
@@ -17,7 +18,7 @@
 <a href="https://www.quora.com/q/algomart" target="blank">
     <img alt="Yash's Quora" height="22" width="22" src="https://gist.githubusercontent.com/wxmerkt/9509091/raw/eacd6c15da46a160cf24c7bf2970bb2082640da4/quora_icon.svg" />
 </a>
-
+</p>
 ------------
 
 📈 My GitHub Stats
