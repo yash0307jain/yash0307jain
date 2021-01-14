@@ -5,7 +5,7 @@
 
 ------------
 
-<img align="right" alt="GIF" src="https://github.com/yash0307jain/yash0307jain/blob/main/code.gif" width="500" height="200" />
+<img align="right" alt="GIF" src="https://github.com/yash0307jain/yash0307jain/blob/main/code.gif" width="400" height="256" />
 
 ### Connect with me:
 
