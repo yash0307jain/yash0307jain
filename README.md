@@ -11,6 +11,8 @@
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="yash0307jain" height="22" width="22" />
 </a>
 
+<br>
+
 📈 My GitHub Stats
 
 <p align="center">
