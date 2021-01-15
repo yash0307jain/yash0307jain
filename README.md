@@ -9,13 +9,15 @@
 ------------
 
 <!--<img align="right" alt="GIF" width="400" height="320" src="https://github.com/yash0307jain/yash0307jain/blob/main/code.gif"/>-->
-<img align="right" alt="Coder GIF" width="315" height="180" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+<img align="right" alt="Coder GIF" width="325" height="200" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 
 ### Connect with me:
 
 <a href="https://linkedin.com/in/yash0307jain" target="blank">
     <img alt="Yash's LinkedIN" height="30" width="30" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+
+<br><br>
 
 ### Have a look to my Quora space:
 
