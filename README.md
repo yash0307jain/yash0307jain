@@ -17,8 +17,6 @@
     <img alt="Yash's LinkedIN" height="30" width="30" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-<br><br>
-
 ### Have a look to my Quora space:
 
 <a href="https://www.quora.com/q/algomart" target="blank">
