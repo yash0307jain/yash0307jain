@@ -8,6 +8,7 @@
 
 ------------
 
+<br><br>
 <!--<img alt="GIF" width="400" height="320" src="https://github.com/yash0307jain/yash0307jain/blob/main/code.gif"/>-->
 <img align="right" alt="Coder GIF" width="350" height="225" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 
