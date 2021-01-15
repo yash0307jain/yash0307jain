@@ -22,11 +22,11 @@
     <img alt="Yash's Quora" height="30" width="30" src="https://gist.githubusercontent.com/wxmerkt/9509091/raw/eacd6c15da46a160cf24c7bf2970bb2082640da4/quora_icon.svg" />
 </a>
 
-<br><br>
+
 
 ------------
 
-📈 My GitHub Stats
+### 📈 My GitHub Stats
 
 <p align="left">
     <img alt="yash0307jain" height="190" src="https://github-readme-stats.vercel.app/api?username=yash0307jain&show_icons=true" />
