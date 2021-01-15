@@ -1,4 +1,8 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Yash Jain</h1>
+
+<img align="right" alt="GIF" width="400" height="320" src="https://github.com/yash0307jain/yash0307jain/blob/main/code.gif"/>
+<!--<img align="right" alt="Coder GIF" width="225" height="180" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">-->
+
 <h3 align="center">A self-taught programmer 😜</h3>
 
 <p align="center">
@@ -6,9 +10,6 @@
 </p>
 
 ------------
-
-<img align="right" alt="GIF" width="275" height="180" src="https://github.com/yash0307jain/yash0307jain/blob/main/code.gif"/>
-<!--<img align="right" alt="Coder GIF" width="225" height="180" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">-->
 
 ### Connect with me:
 
