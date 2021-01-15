@@ -2,7 +2,7 @@
 <h3 align="center">A self-taught programmer 😜</h3>
 
 <p align="center">
-    ⚡ Fun fact <h5><samp>I love to know about new gadgets and love to solve logical reasoning problems.</samp><h5>
+    ⚡ Fun fact --> <samp>I love to know about new gadgets and love to solve logical reasoning problems.</samp>
 </p>
 
 ------------
