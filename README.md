@@ -7,7 +7,7 @@
 
 ------------
 
-<img align="right" alt="GIF" width="225" height="180" src="https://github.com/yash0307jain/yash0307jain/blob/main/code.gif"/>
+<img align="right" alt="GIF" width="275" height="180" src="https://github.com/yash0307jain/yash0307jain/blob/main/code.gif"/>
 <!--<img align="right" alt="Coder GIF" width="225" height="180" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">-->
 
 ### Connect with me:
