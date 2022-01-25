@@ -22,7 +22,12 @@
 <a href="https://algomart.quora.com" target="blank">
     <img alt="Yash's Quora" height="30" width="30" src="https://gist.githubusercontent.com/wxmerkt/9509091/raw/eacd6c15da46a160cf24c7bf2970bb2082640da4/quora_icon.svg" />
 </a>
-
+<a href="https://codehere.quora.com" target="blank">
+    <img alt="Yash's Quora" height="30" width="30" src="https://gist.githubusercontent.com/wxmerkt/9509091/raw/eacd6c15da46a160cf24c7bf2970bb2082640da4/quora_icon.svg" />
+</a>
+<a href="https://tensorhub.quora.com" target="blank">
+    <img alt="Yash's Quora" height="30" width="30" src="https://gist.githubusercontent.com/wxmerkt/9509091/raw/eacd6c15da46a160cf24c7bf2970bb2082640da4/quora_icon.svg" />
+</a>
 
 
 ------------
