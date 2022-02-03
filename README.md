@@ -17,6 +17,7 @@
     <img alt="Yash's LinkedIN" height="30" width="30" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
+<!--
 ### Have a look to my Quora space:
 
 <a href="https://algomart.quora.com" target="blank">
@@ -28,7 +29,7 @@
 <a href="https://tensorhub.quora.com" target="blank">
     <img alt="Yash's Quora" height="30" width="30" src="https://gist.githubusercontent.com/wxmerkt/9509091/raw/eacd6c15da46a160cf24c7bf2970bb2082640da4/quora_icon.svg" />
 </a>
-
+-->
 
 ------------
 
