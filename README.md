@@ -4,6 +4,7 @@
 <!--<img alt="GIF" width="400" height="320" src="https://github.com/yash0307jain/yash0307jain/blob/main/code.gif"/>-->
 <!--<img align="right" alt="Coder GIF" width="425" height="325" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">-->
 
+<!--
 ------------
 
 ### Connect with me:
@@ -12,7 +13,7 @@
     <img alt="Yash's LinkedIN" height="30" width="30" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-<!--
+
 ### Have a look to my Quora space:
 
 <a href="https://algomart.quora.com" target="blank">
