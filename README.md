@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Yash Jain</h1>
-<h3 align="center">A self-taught programmer 😜</h3>
+<!--<h3 align="center">A self-taught programmer 😜</h3>-->
 
 <!--<img alt="GIF" width="400" height="320" src="https://github.com/yash0307jain/yash0307jain/blob/main/code.gif"/>-->
 <!--<img align="right" alt="Coder GIF" width="425" height="325" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">-->
@@ -25,7 +25,7 @@
 <a href="https://tensorhub.quora.com" target="blank">
     <img alt="Yash's Quora" height="30" width="30" src="https://gist.githubusercontent.com/wxmerkt/9509091/raw/eacd6c15da46a160cf24c7bf2970bb2082640da4/quora_icon.svg" />
 </a>
--->
+
 
 ------------
 
@@ -37,3 +37,4 @@
 </p>
 
 ------------
+-->
