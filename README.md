@@ -1,4 +1,5 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Yash Jain</h1>
+Machine Learning Engineer
 <!--<h3 align="center">A self-taught programmer 😜</h3>-->
 
 <!--<img alt="GIF" width="400" height="320" src="https://github.com/yash0307jain/yash0307jain/blob/main/code.gif"/>-->
