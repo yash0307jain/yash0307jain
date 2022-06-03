@@ -1,4 +1,4 @@
-<p align="center" width="325" height="325"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></p>
+<p align="center" width="200" height="200"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></p>
 <h1 align="center">Hi, I'm Yash Jain</h1>
 <h2 align="center">Machine Learning Engineer</h2>
 <!--<h3 align="center">A self-taught programmer 😜</h3>-->
