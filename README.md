@@ -1,7 +1,9 @@
 <!--<p align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></p>-->
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Yash Jain</h1>
-<h2 align="center">Machine Learning Engineer</h2>
-<h3 align="center">A self-taught programmer 😜</h3>
+<h2 align="center">Machine Learning Engineer</br>
+A self-taught programmer 😜</h2>
+
+------------
 
 <p align="center"> 
   Visitor count<br>
