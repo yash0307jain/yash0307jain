@@ -39,7 +39,8 @@
 
 ------------
 
-### 📈 My GitHub Stats
+<!-- ### 📈 My GitHub Stats -->
+<h2 align="center">📈 My GitHub Stats</h2>
 
 <p align="center">
     <img alt="yash0307jain" height="190" src="https://github-readme-stats.vercel.app/api?username=yash0307jain&show_icons=true" />
