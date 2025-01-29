@@ -14,16 +14,29 @@
 <!--<img alt="GIF" width="400" height="320" src="https://github.com/yash0307jain/yash0307jain/blob/main/code.gif"/>-->
 <!--<img align="right" alt="Coder GIF" width="425" height="325" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">-->
 
-<!--
+
 ------------
 
 ### Connect with me:
 
-<a href="https://linkedin.com/in/yash0307jain" target="blank">
-    <img alt="Yash's LinkedIN" height="30" width="30" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+<!--
+<a href="https://topmate.io/yash0307jain" target="blank">
+    <img alt="Yash's Topmate" height="30" width="30" src="https://topmate.io/_next/image?url=%2Fimages%2Fcommon%2Ftopmate-dark.svg&w=1080&q=90&dpl=dpl_89mTJP1mwBaEA3GTdGktfMJavt1A" />
+    Topmate
 </a>
 
+<a href="https://linkedin.com/in/yash0307jain" target="blank">
+    <img alt="Yash's LinkedIn" height="30" width="30" src="https://www.svgrepo.com/show/448234/linkedin.svg" />
+    Linkedin
+</a>
+-->
 
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/yash0307jain)
+[![YouTube](https://img.shields.io/badge/-YouTube-red?style=flat&logo=YouTube&logoColor=white)](https://www.youtube.com/@yash0307jain))
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash0307jain)
+[![Topmate](https://img.shields.io/badge/-Topmate-orange?style=flat&logo=topmate&logoColor=white)](https://topmate.io/yash0307jain)
+
+<!--
 ### Have a look to my Quora space:
 
 <a href="https://algomart.quora.com" target="blank">
@@ -40,12 +53,13 @@
 ------------
 
 <!-- ### 📈 My GitHub Stats -->
+<!--
 <h2 align="center">📈 My GitHub Stats</h2>
 
 <p align="center">
     <img alt="yash0307jain" height="190" src="https://github-readme-stats.vercel.app/api?username=yash0307jain&show_icons=true" />
     <img alt="yash0307jain" height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash0307jain&layout=compact&hide=css,html,matlab&langs_count=10" />
 </p>
-
+--->
 ------------
 
