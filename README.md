@@ -32,7 +32,7 @@
 -->
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/yash0307jain)
-[![YouTube](https://img.shields.io/badge/-YouTube-red?style=flat&logo=YouTube&logoColor=white)](https://www.youtube.com/@yash0307jain))
+[![YouTube](https://img.shields.io/badge/-YouTube-red?style=flat&logo=YouTube&logoColor=white)](https://www.youtube.com/@yash0307jain)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash0307jain)
 [![Topmate](https://img.shields.io/badge/-Topmate-orange?style=flat&logo=topmate&logoColor=white)](https://topmate.io/yash0307jain)
 
