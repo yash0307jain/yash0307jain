@@ -9,9 +9,10 @@
 
 ### 🧠 About Me
 
-> **Tech Content Creator**  
-> Passionate about crafting intelligent systems using **AI**, **LLMs**, **Agents**, and **Vector Databases** to turn ideas into reality 🚀  
-> Experience building scalable backends in **Python** 🐍
+> Building intelligent systems that think, reason, and learn 💡  
+> I explore the world of **AI**, **LLMs**, **Agents**, and **Vector Databases** — one prompt at a time.  
+> Backend engineering in **Python** is my playground, where logic meets creativity ⚙️✨  
+> Always curious. Always shipping 🚀
 
 ---
 
