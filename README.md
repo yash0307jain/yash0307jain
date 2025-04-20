@@ -23,7 +23,7 @@
   <a href="https://www.linkedin.com/in/yash0307jain"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.youtube.com/@yash0307jain"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
   <a href="https://topmate.io/yash0307jain"><img src="https://img.shields.io/badge/Topmate-orange?style=for-the-badge&logo=Topmate&logoColor=white"/></a>
-  <a href="https://medium.com/algomart"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
+  <a href="https://medium.com/@yash0307jain"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
 </p>
 
 ---
